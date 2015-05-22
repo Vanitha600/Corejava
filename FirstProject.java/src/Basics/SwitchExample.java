@@ -4,11 +4,7 @@ package Basics;
 public class SwitchExample {
 
 	public static void main(String[] args) {
-		
 
-		public class SwitchExample {
-
-			public static void main(String[] args) {
 				int age = 20;
 				String name = (age > 18) ? "Adult" : "Child" ;
 					long starttime =0, endtime =0;
