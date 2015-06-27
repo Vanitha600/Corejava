@@ -11,7 +11,7 @@ public class BankEmployee {
 		BankEmployee = new Employee1();
 		BankEmployee = new Employee2();
 		
-		System.out.println(Employee1.toString());
+		System.out.println(Employee1);
 		
 	}
 
